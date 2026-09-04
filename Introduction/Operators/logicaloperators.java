@@ -1,3 +1,4 @@
+package Operators;
 import java.util.Scanner;
 class logicaloperators {
     public static void main(String args[]){

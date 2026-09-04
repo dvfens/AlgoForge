@@ -1,3 +1,4 @@
+package Conditionals;
 import java.util.Scanner;
 class posneg{
     public static void main(String args[]){
