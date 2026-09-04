@@ -1,4 +1,3 @@
-package Introduction;
 import java.util.Scanner;
 class SwitchCase {
     public static void main(String args[]){

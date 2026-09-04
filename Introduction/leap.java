@@ -1,4 +1,3 @@
-package Introduction;
 import java.util.Scanner;
 class leap{
     public static void main(String args[]){
